@@ -1,4 +1,16 @@
 # GoodbyeDpi-DESTROYER3000
 Scans all of your pc for Goodbye DPI components to FORCEFULLY get rid of all of them using powershell, safe mode
 
-Before running GoodbyeDpi-full-delete script, run Get-ExecutionPolicy in an Admin Powershell and if the result isn't AllSigned or Bypass, run "Set-ExecutionPolicy -ExecutionPolicy AllSigned" in an Admin Powershell
+Tutorial:
+
+1-Install/Clone this repo
+
+2-Open a Powershell with Admin Privileges and run "Get-ExecutionPolicy"
+
+2,5-If the result isn't Bypass or Allsined, run "Set-ExecutionPolicy -ExecutionPolicy AllSigned"
+
+3-Reboot in SafeMode
+
+4-Run this script [Remove-GoodbyeDPI-Complete.ps1](Remove-GoodbyeDPI-Complete.ps1) in an Admin Powershell
+
+5-You're free of GoodbyeDPI and all the misery it caused to your mental health and your computer's connection
