@@ -11,6 +11,8 @@ Bilgisayarınızın tamamını Goodbye DPI bileşenleri için tarar ve bunların
 
 > Bu ÇOK güçlü bir araçtır. Bu araca tamamen ve körü körüne güvenmenizi istemem.
 
+> Ben yapabileceğimi yaptım, gerisi sizde.
+
 Nasıl Kullanılır:
 
 1-Bu github deposunu indirin/klonlayın
