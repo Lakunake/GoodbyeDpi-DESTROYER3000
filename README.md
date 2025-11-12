@@ -1,5 +1,5 @@
 # GoodbyeDpi-DESTROYER3000
-This script comprehensively searches the entire system for all files, services, and components related to GoodbyeDPI and GoodbyeDPI-Turkey and forcefully removes them using powershell and safe mode.
+This script comprehensively searches the entire system for all files, services, and components related to GoodbyeDPI and GoodbyeDPI-Turkey and forcefully removes them using powershell and safe mode. This is made so every copy of GoodbyeDPI on your pc can dissappear.
 
 > [!CAUTION]
 > ### Use at your own risk. See [LICENSE](LICENSE) and read gray text below.
