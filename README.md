@@ -17,7 +17,7 @@ Tutorial:
 
 2-Open a Powershell with Admin Privileges and run "Get-ExecutionPolicy"
 
-2,5-If the result isn't Bypass or Allsigned, run "Set-ExecutionPolicy -ExecutionPolicy AllSigned"
+2,5-If the result isn't Bypass or Allsigned, run "Set-ExecutionPolicy -ExecutionPolicy Bypass"
 
 3-Reboot in SafeMode
 
