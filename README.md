@@ -1,14 +1,17 @@
 # GoodbyeDpi-DESTROYER3000
+
+## Your Last Resort To Get Rid Of GoodbyeDPI
+
 This script comprehensively searches the entire system for all files, services, and components related to GoodbyeDPI and GoodbyeDPI-Turkey and forcefully removes them using powershell and safe mode. This is made so every copy of GoodbyeDPI on your pc can dissappear.
 
 > [!CAUTION]
 > ### Use at your own risk. See [LICENSE](LICENSE) and read gray text below.
 
-> I wrote this for a friend struggling to delete GoodbyeDPI. This is untested long code and I advise you to check and tweak the code yourself if you see something that could potentially harm your computer trying to delete and stop GoodbyeDPI and all of it's relics.
+> This is experimental long script that I advise you to check and tweak the code yourself or by a source you trust if you're not sure to trust this script to not harm your computer trying to delete and stop GoodbyeDPI and all of it's artifacts.
 
-> I do not advise you to run this without checking for security mistakes YOURSELF. Learn coding.
+> I do not advise you to run this without checking for security mistakes YOURSELF, or a source YOU trust.
 
-> This is a very powerful tool. I do not want you to compeletly and blindly trust me on this tool.
+> This is a very powerful tool. I do not want you to compeletely and blindly trust me on this tool.
 
 
 Tutorial:
@@ -17,11 +20,11 @@ Tutorial:
 
 2-Open a Powershell with Admin Privileges and run "Get-ExecutionPolicy"
 
-2,5-If the result isn't Bypass or Allsigned, run "Set-ExecutionPolicy -ExecutionPolicy Bypass"
+2,5-If the result isn't Bypass, run "Set-ExecutionPolicy -ExecutionPolicy Bypass"
 
-3-Reboot in SafeMode
+3-Reboot into SafeMode
 
-4-Either Sign the script yourself, or make a new text file and copy the script there
+4-Either Sign the script yourself, or make a new text file and copy the script there then rename it to a .ps1
 
 5-Run that script [(Remove-GoodbyeDPI-Complete.ps1)](Remove-GoodbyeDPI-Complete.ps1) in an Admin Powershell
 
